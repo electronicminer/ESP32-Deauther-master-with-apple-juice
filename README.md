@@ -1,4 +1,4 @@
-# ESP32-Deauther
+# ESP32-s3-Deauther
 
 
 A project for the ESP32-s3 that allows you to deauthenticate stations connected to WiFi network
